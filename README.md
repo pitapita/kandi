@@ -1,3 +1,3 @@
 # kandi
-Kandidaatin tutkielma.
+Kandidaatin tutkielma.......
 Alustava versio generoitu pdf-tiedostosta.
