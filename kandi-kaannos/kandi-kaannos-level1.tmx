@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="FI"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="FI">
+        <seg>Aleksandr Vvedenskin elämä
+Aleksandr Vvedenski syntyi Pietarissa 6.12.1904.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T155238Z" creationid="tapio" creationdate="20150414T152142Z">
+        <seg>Жизнь Александра Введенского
+Александр Иванович	Введенский родился в Санкт-Петербурге 6 декабря 1904 года</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hän kuoli vankeudessa.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T174501Z" creationid="tapio" creationdate="20150414T174217Z">
+        <seg>Он  умер в заключении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hänen äitinsä oli lääkäri ja isänsä ekonomisti.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T152424Z" creationid="tapio" creationdate="20150414T152424Z">
+        <seg>Его мать была врачом-гинегологом и его отец экономистом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hänet pidätettiin ja karkotettiin Leningadista
+ensimmäisen kerran vuonna 1931.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T174003Z" creationid="tapio" creationdate="20150414T173900Z">
+        <seg>Введенский был арестован и послан в ссылку в 1931 году. Он продолжал работать детским писателем в ссHänet pidätettiin ja karkotettiin Leningadista
+ensimmäisen kerran vuonna 1931.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Johdanto
+Aleksandr Vvedenskin nykyaikaan asti säilynyt tuotanto on melko suppea.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T151017Z" creationid="tapio" creationdate="20150414T150009Z">
+        <seg>Введение
+Творчество Александра Введенского, которое сохранились до наших дней, небольшое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koottuihin teoksiin sisältyy vain 48 teosta, mutta suppeudestaan huolimatta se on sisällöllisesti rikas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T151946Z" creationid="tapio" creationdate="20150414T151946Z">
+        <seg>В собрание сочинений Введенского входят только 48 произведений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lehdistön ja kirjailijaliiton kritiikki asetti Vvedenskin ja muut
+ryhmän jäsenet epäilyttävään valoon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T173545Z" creationid="tapio" creationdate="20150414T173545Z">
+        <seg>Критика прессы и Союза Писателей Lehdistön ja kirjailijaliiton kritiikki asetti Vvedenskin ja muut
+ryhmän jäsenet epäilyttävään valoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Neuvostoliiton taidepolitiikka 1920-luvun lopulla ei ollut kuitenkaan enää
+erityisen sallivaa, eikä kokeellisuutta enää katsottu hyvällä, joten ryhmä lakkautettiin
+huhtikuussa 1930.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T173429Z" creationid="tapio" creationdate="20150414T173429Z">
+        <seg>В конце 1920-х годов культурная политика Советского союза больше не была особенно либералной и экспериментальности не позвольяли. Поэтому и группа прекратила свое сушествование в конце апреля 1930 года.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Runo «Мне жалко, что я не зверь»</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T161101Z" creationid="tapio" creationdate="20150414T161101Z">
+        <seg>Стихотворение «Мне жалко, что я не зверь»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ryhmä harrasti yhdessä laaja-alaisia filosofisia, esteettisiä ja lingvistisiä keskusteluja ja he pitivät yhteyttä keskenään Vvedenskin kuolemaan saakka.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T165528Z" creationid="tapio" creationdate="20150414T162818Z">
+        <seg>Они занимались философскимы, эстетическими и лингвистическими обсуждениеми и сообщались до смерти Введенского.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ryhmä järjesti
+kokeellisia esityksiä, jotka koostuivat musiikista, runonlausunnasta, teatterista ja elokuvasta.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T172410Z" creationid="tapio" creationdate="20150414T171911Z">
+        <seg>Группа организовала экспериментальные культурные вечера с музыкой, поэзией, театром и кино. Их манифест, опубликована в январе 1928 года, декларировал </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tunnetuin Vvedenski on kuitenkin 1927 perustetusta poikkitaiteellisesta OBERIU-ryhmästä, johon kuuluivat
+Vvedenskin ja Harmsin lisäksi Nikolai Zabolotski, Igor Bahterev, Konstantin Vaginov, Juri Vladimirov ja Boris Levin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T172355Z" creationid="tapio" creationdate="20150414T170448Z">
+        <seg>Более известная из группов -- созданная в 1927 году  группа «ОБЭРИУ» (Объединение Реального Искусства) о создаммон Tunnetuin Vvedenski on kuitenkin 1927 perustetusta poikkitaiteellisesta OBERIU-ryhmästä, johon kuuluivat
+Vvedenskin ja Harmsin lisäksi Nikolai Zabolotski, Igor Bahterev, Konstantin Vaginov, Juri Vladimirov ja Boris Levin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tšinari ei ollut varsinainen virallinen kirjailijaryhmä, vaan enemmänkin ryhmä ystäviä, jotka jakoivat yhteisiä filosofisia katsantokantoja.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T170109Z" creationid="tapio" creationdate="20150414T170109Z">
+        <seg>«Чинари» не была официальной литературной группой в обычном смысле слова, а в первую очередь группа друзей у которых были общие филофские мнения и мыслы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Vapauduttuaan hän muutti Harko-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T174346Z" creationid="tapio" creationdate="20150414T174346Z">
+        <seg>После освобождений он переехал в Харьков где он был опять арестован в 1941 году.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Vuonna 1922 hän perusti yhdessä Druskinin, Lipavskin ja Tamara Meierin kanssa
+ryhmän nimeltä Tšinari, johon liittyivät vuonna 1925 runoilijat Daniil Harms ja Nikolai Oleinikov.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T165523Z" creationid="tapio" creationdate="20150414T162609Z">
+        <seg>В 1922 в Петрограде была создано объедение «Чинари». В объедение входили кроме Введенского Я. Друскин, Л. Липавский и Тамара Мейер. В 1925 году в группу входили и поэты Даниил Хармс и Николай Олейников.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Vvedenski kiinnostui runoudesta jo nuorella iällä, ja hänen esikuvinaan
+olivat symbolistit, muun muassa Aleksandr Blok, sekä futuristit, joita hän parodioi
+vuonna 1918 yhdessä Lipavskin ja A.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T155151Z" creationid="tapio" creationdate="20150414T155151Z">
+        <seg>Введенский интересовался поэзией уже в молодом возрасте. Его Vvedenski kiinnostui runoudesta jo nuorella iällä, ja hänen esikuvinaan
+olivat symbolistit, muun muassa Aleksandr Blok, sekä futuristit, joita hän parodioi
+vuonna 1918 yhdessä Lipavskin ja A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Vvedenski tutustui jo kouluaikana
+elinikäisiin ystäviinsä kirjailija Leonid Lipavskiin ja filosofi, matemaatikko Jakov
+Druskininiin, joka toimi myöhemmin Vvedenskin tuotannon arkistoijana, tutkijana ja
+pelastajana.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T161629Z" creationid="tapio" creationdate="20150414T153323Z">
+        <seg>Уже в школьные годы Введенский познакомился с его друзьями писателем Леонидом Липавском и философом-математиком Яковом Друскином. После ареста и смерти Введенского Друскин стал спасителем, исследователем и архивистом его творчества.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Yhtenä tekosyynä oli luultavasti kosteissa juhlissa
+ilmiantajan kuullen laulettu tsaaria ylistävä laulu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T174150Z" creationid="tapio" creationdate="20150414T174150Z">
+        <seg>Одной предлогой была наверно Yhtenä tekosyynä oli luultavasti kosteissa juhlissa
+ilmiantajan kuullen laulettu tsaaria ylistävä laulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>liberaaliin älymystöperheeseen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tapio" changedate="20150414T152313Z" creationid="tapio" creationdate="20150414T152313Z">
+        <seg>в либералном семье интеллигеции.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

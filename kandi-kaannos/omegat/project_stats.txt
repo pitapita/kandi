@@ -1,0 +1,14 @@
+4/15/15 4:23 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     262	 2970	                      20644	                        23100	     1	
+Remaining:       	     262	 2970	                      20644	                        23100	     1	
+Unique:          	     250	 2953	                      20551	                        23002	     1	
+Unique Remaining:	     250	 2953	                      20551	                        23002	     1	
+
+
+Individual File Statistics:
+
+File Name      	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+kanditeksti.txt	           262	               262	            250	                      250	       2970	           2970	        2953	                  2953	                            20644	                                20644	                             20551	                                       20551	                              23100	                                  23100	                               23002	                                         23002	
